@@ -1,4 +1,5 @@
 # Pace
+[Under development] R package for running the Prescription pattern Around Clinical Event (PACE) algorithm.
 
 Getting Started
 ===============
